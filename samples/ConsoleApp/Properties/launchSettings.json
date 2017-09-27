@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ConsoleApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "APPINSIGHTS_APP_VERSION": "1.2.3",
+        "APPINSIGHTS_APP_NAME": "Service Context Console App Sample",
+        "APPINSIGHTS_APP_CONTEXT_Scope": "Private"
+      }
+    }
+  }
+}

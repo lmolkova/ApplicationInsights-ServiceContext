@@ -1,0 +1,31 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:64701/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "APPINSIGHTS_APP_VERSION": "1.2.3",
+        "APPINSIGHTS_APP_NAME": "Service Context Example",
+        "APPINSIGHTS_APP_CONTEXT_FlightConfig": "412",
+        "APPINSIGHTS_APP_CONTEXT_Scope": "Production",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    },
+    "AspNetCoreSample": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "http://localhost:64702/"
+    }
+  }
+}
