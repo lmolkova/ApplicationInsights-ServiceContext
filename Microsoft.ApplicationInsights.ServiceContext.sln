@@ -13,8 +13,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "samples\Conso
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{8A5EF9AB-8391-4193-BF41-43EC5A7254B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Microsoft.ApplicationInsights.ServiceContext.Signing", "src\Microsoft.ApplicationInsights.ServiceContext.Signing\Microsoft.ApplicationInsights.ServiceContext.Signing.csproj", "{69AA6421-82A5-43BF-AD27-8E2C172FF8CE}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,10 +35,6 @@ Global
 		{29E4EDD3-BC92-4734-AFD3-0432AC557A7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29E4EDD3-BC92-4734-AFD3-0432AC557A7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29E4EDD3-BC92-4734-AFD3-0432AC557A7B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{69AA6421-82A5-43BF-AD27-8E2C172FF8CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{69AA6421-82A5-43BF-AD27-8E2C172FF8CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{69AA6421-82A5-43BF-AD27-8E2C172FF8CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{69AA6421-82A5-43BF-AD27-8E2C172FF8CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
